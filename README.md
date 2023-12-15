@@ -1,5 +1,5 @@
 
-# 🎄 Diempi DAY 2 OF 12 CODEXMAS Challenge 3 - Learn Web 3 🎄
+# 🎄 Diempi DAY 3 OF 12 CODEXMAS Challenge 3 - Learn Web 3 🎄
 
 ## 🌟 Project Description
 Welcome to the festive coding challenge! In this challenge, we're diving into the world of Web3 with a holiday twist. 🎅🏼🚀
